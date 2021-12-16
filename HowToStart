@@ -1,0 +1,2 @@
+1) # docker build -t live-counter
+2) # docker run -p 8080:9090 live-counter
